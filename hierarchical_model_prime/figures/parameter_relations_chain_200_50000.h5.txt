@@ -1,0 +1,4 @@
+Progeny divides faster than SCs: p = 0.7511
+[Probably the constraint lamb1 < d1 was used in the model]
+SCs divide asym. more often than sym.: p = 0.99935
+Correlation between (d1-lamb1) and mu1: R = 0.8814108802385981

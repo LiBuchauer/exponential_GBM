@@ -1,0 +1,7 @@
+Probability mass in alpha=0.05-hypersurface = 0.6123
+Probability mass in 5D hypercuboid = 0.8558
+Probability mass within alpha=0.05-lambS bounds = 0.9773
+Probability mass within alpha=0.05-lambA bounds = 0.9477
+Probability mass within alpha=0.05-lamb1 bounds = 0.96715
+Probability mass within alpha=0.05-d1 bounds = 0.9453
+Probability mass within alpha=0.05-mu1 bounds = 0.93015
