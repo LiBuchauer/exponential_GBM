@@ -7,6 +7,8 @@ ___Exponential Growth of Glioblastoma Is Driven by Rapidly Dividing and Migratin
 
 Lisa Buchauer\*, Muhammad Amir Khan\*, Yue Zhuo\*, Chunxuan Shao, Peng Zou, Weijun Feng, Mengran Qian, Gözde Bekki, Charlotte Bunne, Anna Neuerburg, Azer Aylin Acikgöz, Mona Tomaschko, Zhe Zhu, Heike Alter, Katharina Hartmann, Olga Friesen, Klaus Hexel, Thomas Höfer\+, Hai-Kun Liu\+
 
+Further details about the models can be found in the _Supplementary Theory_ accompanying the articel which is also part of this repository (Glio_SI_Theory.pdf).
+
 ## Structure of the repository
 
 The codebase consists of three main parts. In the first, three common growth laws are fitted to _in vivo_ tumor growth data collected via bioluminescence imaging (__growth_laws_BLI__). Second, there is a simple tumor growth simulation with different cell migration options (__growth_visualisation__). Third, there is the main model discussed in the manuscript entailing cancer stem cells, proliferating progeny and differentiated tumor cells (__hierarchical_model_prime__). For historical reasons, the model is called "prime" (don't worry about it).
