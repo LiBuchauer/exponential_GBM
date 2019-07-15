@@ -8,10 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pylab
 import seaborn
-from scipy.integrate import odeint
-from matplotlib.patches import Rectangle
 import pandas as pd
-from lmfit import *
 
 plt.rc('text', usetex=True)
 seaborn.set_context('talk')
