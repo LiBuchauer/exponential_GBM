@@ -7,7 +7,7 @@ ___Exponential Growth of Glioblastoma Is Driven by Rapidly Dividing and Migratin
 
 Lisa Buchauer\*, Muhammad Amir Khan\*, Yue Zhuo\*, Chunxuan Shao, Peng Zou, Weijun Feng, Mengran Qian, Gözde Bekki, Charlotte Bunne, Anna Neuerburg, Azer Aylin Acikgöz, Mona Tomaschko, Zhe Zhu, Heike Alter, Katharina Hartmann, Olga Friesen, Klaus Hexel, Thomas Höfer\+, Hai-Kun Liu\+
 
-Further details about the models can be found in the _Supplementary Theory_ accompanying the articel which is also part of this repository (Glio_SI_Theory.pdf).
+Further details about the models can be found in the _Supplementary Theory_ accompanying the articel which is also part of this repository (Glio_SI_Theory.pdf). The article is available on bioRxiV, ID 723601, doi: https://doi.org/10.1101/723601 .   
 
 ## Structure of the repository
 
